@@ -9,6 +9,6 @@
   * [1713 - 후보 추천하기](https://www.acmicpc.net/problem/1713)
 
 * Week02
-  * [1914 - 하노이 탑](https://www.acmicpc.net/problem/1914
+  * [1914 - 하노이 탑](https://www.acmicpc.net/problem/1914)
   * [1213 - 팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
   * [1254 - 팰린드롬 만들기](https://www.acmicpc.net/problem/1254)

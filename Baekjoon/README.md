@@ -1,3 +1,14 @@
 # BOJ Algorithm
-* Day01
+
+* Week01
   * [11052 - 카드구매하기](https://www.acmicpc.net/problem/11052)
+  * [7576 - 토마토](https://www.acmicpc.net/problem/7576)
+  * [1672 - DNA 해독](https://www.acmicpc.net/problem/1672)
+  * [11659 - 구간 합 구하기4](https://www.acmicpc.net/problem/11659)
+  * [20055 - 컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
+  * [1713 - 후보 추천하기](https://www.acmicpc.net/problem/1713)
+
+* Week02
+  * [1914 - 하노이 탑](https://www.acmicpc.net/problem/1914
+  * [1213 - 팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
+  * [1254 - 팰린드롬 만들기](https://www.acmicpc.net/problem/1254)

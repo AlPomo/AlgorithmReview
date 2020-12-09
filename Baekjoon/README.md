@@ -12,8 +12,8 @@
   * [1914 - 하노이 탑](https://www.acmicpc.net/problem/1914)
   * [1213 - 팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
   * [1254 - 팰린드롬 만들기](https://www.acmicpc.net/problem/1254)
-  * [2146 - 다리 만들기](https://www.acmicpc.net/problem/2146)
-  * [2504 - 괄호의 값](https://www.acmicpc.net/problem/2504)
-  * [15658 - 연산자 끼워넣기](https://www.acmicpc.net/problem/15658)
-  * [13335 - 트럭](https://www.acmicpc.net/problem/13335)
+  * [2146 - 다리 만들기](https://www.acmicpc.net/problem/2146) `Review`
+  * [2504 - 괄호의 값](https://www.acmicpc.net/problem/2504) `Review`
+  * [15658 - 연산자 끼워넣기](https://www.acmicpc.net/problem/15658) `Review`
+  * [13335 - 트럭](https://www.acmicpc.net/problem/13335) `Review`
   * [8911 - 거북이](https://www.acmicpc.net/problem/8911)

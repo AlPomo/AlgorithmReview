@@ -1,0 +1,46 @@
+N = int(input())
+numList = list(map(int, input().rstrip().split()))
+opCountList = list(map(int, input().rstrip().split()))
+
+minValue = 999999999
+maxValue = -999999999
+
+
+def dfs(opCount, summary):
+
+    global minValue
+    global maxValue
+    if opCount == N-1:
+        minValue = min(minValue, summary)
+        maxValue = max(maxValue, summary)
+        return
+
+    for k in range(4):
+        if opCountList[k] == 0:
+            continue
+        preSummary = summary
+        if k == 0:
+            summary += numList[opCount + 1]
+        elif k == 1:
+            summary -= numList[opCount + 1]
+        elif k == 2:
+            summary *= numList[opCount + 1]
+        else:
+            if summary < 0:
+                summary = (summary * -1) // numList[opCount + 1] * -1
+            else:
+                summary //= numList[opCount + 1]
+
+        opCountList[k] -= 1
+        dfs(opCount + 1, summary)
+        opCountList[k] += 1
+
+        summary = preSummary
+
+    return
+
+
+# 연산자 카운트 ,첫 시작
+dfs(0, numList[0])
+
+print(maxValue,minValue)

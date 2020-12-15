@@ -10,25 +10,21 @@ for i in range(N):
     num_balloon.append(i+1)
 
 answer=[]
+move_idx=0
 while val_balloon:
-    print('-'*40)
-    print("NUM BALLOON : ",num_balloon)
-    print("VAL BALLOON : ",val_balloon)
+    if move_idx<0:
+        move_idx=val_balloon.pop()
+        answer.append(num_balloon.pop())
+    else:
+        move_idx=val_balloon.popleft()
+        answer.append(num_balloon.popleft())
 
-    move_idx=val_balloon.popleft()
-    answer.append(num_balloon.popleft())
-    if len(num_balloon)!=0:
-        if move_idx>0:
-            move_idx-= int(move_idx//len(num_balloon))+1
-        elif move_idx<0:
-            move_idx+= int(move_idx//len(num_balloon))+1
-    
-
-    print("MOVE_IDX : ",move_idx)
-
-    num_balloon.rotate(-1*(move_idx))
-    val_balloon.rotate(-1*(move_idx))
-
+    if move_idx<0:
+        num_balloon.rotate(-1*(move_idx+1))
+        val_balloon.rotate(-1*(move_idx+1))
+    elif move_idx>0:
+        num_balloon.rotate(-1*(move_idx-1))
+        val_balloon.rotate(-1*(move_idx-1))
 
 _string=''
 for ans in answer:

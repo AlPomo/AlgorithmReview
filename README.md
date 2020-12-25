@@ -61,6 +61,13 @@ Problem Solving &amp; Review
 |Set| ✔ |  |  |  |  |
 |Map|  |  |  |  |  |
 |**정렬**|  |  |  |  |  |
+|Bubble sort|  |  |  |  |  |
+|Selection sort|  |  |  |  |  |
+|Insertion sort|  |  |  |  |  |
+|Merge sort|  |  |  |  |  |
+|Quick sort|  |  |  |  |  |
+|Tim sort|  |  |  |  |  |
+|위상정렬|  |  |  |  |  |
 |**탐색**|  |  |  |  |  |
 |KMP| ✔ |  |  |  |  |
 |이분탐색| ✔ |  |  |  |  |

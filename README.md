@@ -69,6 +69,6 @@ Problem Solving &amp; Review
 |Tim sort|  |  |  |  |  |
 |위상정렬|  |  |  |  |  |
 |**탐색**|  |  |  |  |  |
-|KMP| ✔ |  |  |  |  |
+|KMP|  |  |  |  |  |
 |이분탐색| ✔ |  |  |  |  |
 

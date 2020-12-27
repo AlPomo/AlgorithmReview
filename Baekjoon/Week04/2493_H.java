@@ -1,4 +1,4 @@
-/*
+/* 
 public static int[] solution(int[] heights) {
     int[] answer = new int[heights.length];
 	        for(int i=heights.length-1; i>0; i--) {

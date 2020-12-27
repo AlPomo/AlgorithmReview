@@ -1,0 +1,18 @@
+#연속적인 ~ -> 투포인터 문제
+N, K = map(int, input().rstrip().split())
+tempertureList =[x for x in list(map(int,input().rstrip().split()))]
+
+right = 0
+summary = 0
+answer = -9999999999
+for left in range(N):
+    while left <= right < N and right-left < K:
+        summary += tempertureList[right]
+        right += 1
+
+    if right - left == K:
+        answer = max(answer,summary)
+
+    summary -= tempertureList[left]
+
+print(answer)

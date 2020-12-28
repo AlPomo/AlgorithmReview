@@ -1,0 +1,21 @@
+K, N = map(int, input().rstrip().split())
+
+cableList = []
+for _ in range(K):
+    cableList.append(int(input()))
+
+minValue = 1
+maxValue = max(cableList)
+
+while minValue <= maxValue:
+    cableCount = 0
+    middle = (minValue + maxValue) // 2
+    for x in cableList:
+        cableCount += (x // middle)
+
+    if N <= cableCount:
+        minValue = middle + 1
+    else:
+        maxValue = middle - 1
+
+print(maxValue)

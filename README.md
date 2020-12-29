@@ -1,7 +1,7 @@
 # AlgorithmReview
 **Problem Solving &amp; Review**
   <ul style="list-style: none;">
-    🚩<a href="https://www.acmicpc.net/group/practice/9562">boj 그룹 바로가기 </a>
+    👨‍💻<a href="https://www.acmicpc.net/group/practice/9562">Go to our BOJ group</a>
   </ul>
 
 <br />

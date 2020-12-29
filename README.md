@@ -1,6 +1,8 @@
 # AlgorithmReview
-Problem Solving &amp; Review
-  * 🚩 [BOJ 그룹 바로가기](https://www.acmicpc.net/group/practice/9562)
+**Problem Solving &amp; Review**
+  <ul style="list-style: none;">
+    🚩<a href="https://www.acmicpc.net/group/practice/9562">boj 그룹 바로가기 </a>
+  </ul>
 
 <br />
 

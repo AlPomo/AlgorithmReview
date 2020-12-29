@@ -52,14 +52,14 @@ Problem Solving &amp; Review
 |[백트래킹](https://www.acmicpc.net/problemset?sort=ac_desc&algo=5)| ✔ |  |  |  |  |
 |**자료구조**|  |  |  |  |  |
 |정수|  |  |  |  |  |
-|실수|  |  |  |  |  |
+|실수| ✔  |  |  |  |  |
 |문자|  |  |  |  |  |
 |문자열| ✔ |  |  |  |  |
 |[리스트](https://www.acmicpc.net/problemset?sort=ac_desc&algo=154)|  |  |  |  |  |
 |[스택](https://www.acmicpc.net/problemset?sort=ac_desc&algo=71)| ✔ |  |  |  |  |
 |백터|  |  |  |  |  |
 |Set| ✔ |  |  |  |  |
-|Map|  |  |  |  |  |
+|Map| ✔ |  |  |  |  |
 |**정렬**|  |  |  |  |  |
 |Bubble sort|  |  |  |  |  |
 |Selection sort|  |  |  |  |  |

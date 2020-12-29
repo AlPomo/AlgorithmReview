@@ -1,6 +1,6 @@
 # AlgorithmReview
 Problem Solving &amp; Review
-  * 🚩 [BOJ 그룹 바로가기](https://www.acmicpc.net/group/9562)
+  * 🚩 [BOJ 그룹 바로가기](https://www.acmicpc.net/group/practice/9562)
 
 <br />
 

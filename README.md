@@ -1,8 +1,8 @@
 # AlgorithmReview
 Problem Solving &amp; Review
+  * 🚩 [BOJ 그룹 바로가기](https://www.acmicpc.net/group/9562)
 
-👉 [BOJ 그룹 바로가기](https://www.acmicpc.net/group/9562)
-
+<br />
 
 ## Team Alpomo
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -75,6 +75,8 @@ Problem Solving &amp; Review
 |**탐색**| 〰 | 〰 | 〰 | 〰 | 〰 |
 |KMP|  |  |  |  |  |
 |이분탐색| ✔ |  |  |  |  |
+
+<br />
 
 ## Problem List
 [대학생 기본반](https://www.acmicpc.net/workbook/view/2047)
